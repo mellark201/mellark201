@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shubham Kumar Jha, a CSE Undergraduate at MNNIT Allahabad.
+- 👀 I’m interested in Web Development and JAVA Apps
+- 🌱 I’m currently learning JavaFX and Springboot
+- 📫 You can reach me at skjh60070@gmail.com
